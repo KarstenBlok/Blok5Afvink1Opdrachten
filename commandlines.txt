@@ -1,14 +1,18 @@
+opdracht 1
+a.
 javac eersteoefening.java
 java eersteoefening
 
-
+b.
 javac opdracht2.java
 java opdracht2
 
-javac hello
+opdracht 2
+a.
+javac hello.java
 java hello james
-
-javac hello2
+b.
+javac hello2.java
 java hello2 james
 
 
