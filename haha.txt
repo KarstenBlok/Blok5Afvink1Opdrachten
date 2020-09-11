@@ -1,0 +1,18 @@
+javac eersteoefening.java
+java eersteoefening
+
+
+javac opdracht2.java
+java opdracht2
+
+javac hello
+java hello james
+
+javac hello2
+java hello2 james
+
+
+
+
+
+
