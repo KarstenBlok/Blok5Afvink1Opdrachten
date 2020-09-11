@@ -1,0 +1,10 @@
+JVM: Java virtual machine, een platformonafhankelijke omgeving voor het uitvoeren van java bytecode
+JRE: Java runtime environment is een omgeving die het mogelijk maakt om Java bestanden op je computer uit te voren
+JDK: Java development kit is een software waarmee je javaprogramma's kan ontwikkelen
+Java: progammeertaal
+Javac: java progamming language compiler
+Broncode: de leesbare text van een computerprogramma
+Bytecode: Java-bytecode is de instructieset van de virtuele Java-machine
+Java compiler: Een compiler voor de progammeertaal java, het pakt de gescherven text file en maakt er een platform-independent java file van
+halfcompiled: Hetzelfde als bytecode, maar soms kan je een woord herkennen
+classfile: Hetzelfde als bytecode
